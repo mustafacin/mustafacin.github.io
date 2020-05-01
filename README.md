@@ -6,4 +6,4 @@ Python ile dizin taraması yapan hızlı bir fuzz scriptidir.Requests modulü y�
 <br>
 <br>
   
-<img src="https://imgur.com/BYwXUc0" style="width:500px;height:600px;"> 
+<img src="https://i.ibb.co/3drp88n/fuzz.png" style="width:500px;height:600px;"> 
